@@ -54,8 +54,8 @@ npm start
 Runs on `http://localhost:3000`
 
 ### Default Admin Login
-- Email: `admin@campus.edu`
-- Password: `admin@123`
+- Email: `****@campus.edu`
+- Password: `****`
 
 ## 📁 Project Structure
 ```
